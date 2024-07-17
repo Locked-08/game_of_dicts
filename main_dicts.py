@@ -2,7 +2,7 @@ import random
 inventory = []
 
 def start_game():
-    print("welcome to the adventure Game!")
+    print("welcome to lord of the dicts")
     print("You find yourself in a dark forest with two paths ahead.")
     print("TYpe 'cave' to explore the cave or 'river' to follow the river.")
 
