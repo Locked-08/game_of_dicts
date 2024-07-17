@@ -1,3 +1,8 @@
+# author: ballisticdicts
+# date: July 16, 2024
+# version: 1.0.0
+# lord of the dicts
+
 import random
 inventory = []
 
